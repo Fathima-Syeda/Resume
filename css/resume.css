@@ -1,0 +1,13 @@
+.img {
+    width: 10em;
+    height: 10rem;
+}
+
+@media print {
+    .hide-print {
+        display: none !important;
+    }
+    body {
+        margin: 2em;
+    }
+}

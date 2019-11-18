@@ -1,0 +1,85 @@
+{
+  "contactDetails": [
+    {
+      "name": "Fathima Syeda Noor",
+      "position": "UI Developer",
+      "city": "Calgary",
+      "state": "AB",
+      "phone": "403-978-5687",
+      "email": "fathima.nsyeda@gmail.com",
+      "image": "assets/profile_pic.jpg"
+    }
+  ],
+  "summary": [
+    {
+      "summaryText": "Front-end Developer with over 4.5 years of experience looking for a role in an exciting and growing company. Experienced in building applications using JavaScript, Angular 7, HTML5, CSS3, SASS, Angular Material Design and Telerik Kendo Framework."
+    }
+  ],
+  "skills": [
+    {
+      "skillName": "Front-End",
+      "skills": [
+        "Experience in designing dynamic and static web-based applications",
+        "Experience in JavaScript and Typescript",
+        "Extensive experience with Angular 7 and previous versions of Angular",
+        "Sound understanding of Angular material design",
+        "Developed Applications with Responsive Web Design",
+        "Unit Testing using Karma and Jasmine",
+        "Have strong debugging skills",
+        "Experience using RxJS concepts",
+        "Have skilful knowledge of HTML 5",
+        "Have a good command over CSS3 and SASS",
+        "Experience on code versioning tools such as Git, Bit Bucket and Tortoise SVN",
+        "Experience on Atlassian tools such as Jira and Confluence"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "companyName": "Mindtree Ltd, India",
+      "startDate": "Sept 2014",
+      "endDate": "Aug 2019",
+      "responsibilities": [
+        "Developed various screens of web applications in Angular 7. Strived to make most code reusable by designing common components for similar functionalities, effectively reducing the lines of code",
+        "Extensively used Angular Material and Telerik Kendo UI (for separate applications) in combination with CSS3 and SASS to design the UI. Ensured responsiveness of the application using Angular Material features and media queries",
+        "Expediated the development process by designing reusable HTML and typescript components for Angular Material chip list, grid and modals. These were reused by the team hence keeping rework at bay",
+        "Implemented RxJS features such as Observables, Subjects and Behaviour Subjects for communication between components, simplifying the interactions between modules",
+        "Designed custom pipes and directives. Implemented both template-driven as well as reactive forms. Validated these forms using both built-in as well as custom validators. Tactfully used regular expressions to validate forms",
+        "Succeeded in creating Single Page Applications that load multiple views using routing modules. Integrated application level code with RESTful APIs, thus simplifying CRUD operations in the application",
+        "Executed Angular Unit Test Cases using Karma and Jasmine to achieve a coverage of 90%",
+        "Involved in requirement gathering with the clients to understand the business processes; coordinated with the client team to finalize the user experience design and validated the requirements from a technical standpoint ensuring a smooth transition from Design to Development",
+        "Defined estimations for the UI development and strictly adhered to them. This led to successful launch of the Application",
+        "Followed agile methodology which included Scrum, test driven development and continuous integration/development. These were applied by using Atlassian tools such as Jira and Confluence to create user stories and issues to track the development workflow",
+        "Developed projects following Waterfall methodology",
+        "Developed Proof of Concepts (POCs) on reusability of Angular components",
+        "Created and maintained UI design document detailing the design patterns and technical aspects followed during development ensuring a well-documented Application",
+        "Involved in Root Cause Analysis (RCA) and providing fixes by modifying code when a defect was identified during System Integration Test (SIT) and User Acceptance Test (UAT). Also handled Change Requests",
+        "Worked with version control tools such as Git, Bit bucket and Tortoise SVN",
+        "Mentored junior developers in troubleshooting and achieving required targets in delivery. Participated in knowledge transfer sessions to familiarize new team members with the existing application, which in turn helped to build a strong and well-equipped team."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "course": "JavaScript Algorithms and Data Structures Certification from freecodecamp.org: Completed over 300 hours of coursework that included five projects",
+      "url": "https://www.freecodecamp.org/certification/fathimasyeda/javascript-algorithms-and-data-structures"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institute": "JSS Academy of Technical Education [VTU], India",
+      "startYear": "2009",
+      "endYear": "2013"
+    }
+  ],
+  "image": "/image/",
+  "sectionTitles": [
+    "Contact Details",
+    "Summary",
+    "Skills",
+    "Experience",
+    "Certifications",
+    "Education"
+  ]
+}
